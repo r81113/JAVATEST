@@ -14,28 +14,28 @@ public class Complayer {
 	private int fist;
 
 	private String[] fistWord = { 
-			"嚙踐�蕭����",
-			"���嚙踝蕭����蕭",
-			"���頩筆�~~",
+			"嘿嘿~~",
+			"嘻嘻~~",
+			"BANG",
 			"77777",
-			"���蕭��雓ｇ蕭"
+			"BOOM"
 		
 	};
 
 	private String[] winWord = { 
-			"嚙踝��蕭",
-			"嚙踐���",
-			"���嚙踐���蕭�",
-			"嚙踝蕭謜������蕭嚙踝��",
-			"���嚙踝蕭謚渲嚙踝蕭豯株雓���蕭"
+			"嫩",
+			"廢物~~",
+			"爽啦~~",
+			"滾去旁邊~",
+			"還敢來RR"
 	};
 
 	private String[] loseWord = {
-			"������蕭嚙�",
-			"���嚙踝蕭謖��蕭",
-			"���雓",
-			"嚙踝�蕭嚙踝�嚙踝蕭��嚙踝蕭謅蕭���",
-			"���嚙踐���蕭謏��嚙踐扑RR"
+			"可惡~~",
+			"幹在一場",
+			"靠北",
+			"操~~~~",
+			"我不信!!!!"
 	};
 
 	//
@@ -93,19 +93,19 @@ public class Complayer {
 
         if(this.fist==1) {
 			
-			System.out.println(getName()+"���������");	
+			System.out.println(getName()+"出剪刀");	
 			
 		}
 		
 		else if(this.fist==2) {
 			
-			System.out.println(getName()+"������蕭��韏荔蕭");	
+			System.out.println(getName()+"出石頭");	
 			
 		}
 		
 		else if(this.fist==3) {
 			
-			System.out.println(getName()+"����蕭���蕭");	
+			System.out.println(getName()+"出布");	
 		}
         
 		return this.fist;

@@ -7,6 +7,7 @@ public class Testmain {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+						
 		Scanner input = new Scanner(System.in);
 			
 		System.out.println("請輸入遊戲房號:");
@@ -18,6 +19,7 @@ public class Testmain {
 		String pass = input.next();
 						
 		new Gameroom(roomname ,pass);
+
 	}
 
 }
