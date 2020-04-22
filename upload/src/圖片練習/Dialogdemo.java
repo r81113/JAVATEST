@@ -9,7 +9,7 @@ public class Dialogdemo {
 		// TODO Auto-generated method stub
 		
 		//參數1 父對話框
-		//JOptionPane.showMessageDialog(null, "錯誤");
+		JOptionPane.showMessageDialog(null, "錯誤");
 		
 		//參數2 對話框中的提示訊息
 		//參數3 對話框中的標題訊息
