@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="commons-text-1.8.jar"/>
+	<classpathentry kind="lib" path="dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="htmlunit-2.39.0.jar"/>
+	<classpathentry kind="lib" path="htmlunit-core-js-2.39.0.jar"/>
+	<classpathentry kind="lib" path="htmlunit-cssparser-1.5.0.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.5.12.jar"/>
+	<classpathentry kind="lib" path="httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="httpmime-4.5.12.jar"/>
+	<classpathentry kind="lib" path="jetty-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="jetty-http-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="jetty-io-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="jetty-util-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="jetty-xml-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="mysql-connector.jar"/>
+	<classpathentry kind="lib" path="neko-htmlunit-2.39.0.jar"/>
+	<classpathentry kind="lib" path="serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="websocket-api-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="websocket-client-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="websocket-common-9.4.27.v20200227.jar"/>
+	<classpathentry kind="lib" path="xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
