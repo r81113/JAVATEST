@@ -21,7 +21,7 @@ public class Compare {
 		
 		for (int i = 0; i < heroarray.length; i++) {
 
-			for (int j = 0; j < heroarray.length - i - 1; j++) {
+			for (int j = 0; j < heroarray.length - i -1; j++) {
 
 				if (a.compareTo(b) < 0) {
 
